@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/Ow1NYiI1BD33xkXN05lW54gYfcoFyLRKIjNHk5YjeBK46R8sivoPnEyoQjhp5ftyptWUiyJ/TVLtDIsV1SCg==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\Code\\Explore\\RabbitMQProduct.ConsoleApplication\\RabbitMQProduct.ConsoleApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\indra\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\indra\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\indra\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://172.18.132.73:8383/repository/orp/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://172.18.132.73:8383/repository/OBRAS/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

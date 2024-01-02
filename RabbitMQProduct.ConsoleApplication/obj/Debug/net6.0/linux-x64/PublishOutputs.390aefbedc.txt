@@ -1,0 +1,7 @@
+D:\Work\Code\Explore\RabbitMQProduct.ConsoleApplication\published\RabbitMQProduct.ConsoleApplication
+D:\Work\Code\Explore\RabbitMQProduct.ConsoleApplication\published\RabbitMQProduct.ConsoleApplication.dll
+D:\Work\Code\Explore\RabbitMQProduct.ConsoleApplication\published\RabbitMQProduct.ConsoleApplication.deps.json
+D:\Work\Code\Explore\RabbitMQProduct.ConsoleApplication\published\RabbitMQProduct.ConsoleApplication.runtimeconfig.json
+D:\Work\Code\Explore\RabbitMQProduct.ConsoleApplication\published\RabbitMQProduct.ConsoleApplication.pdb
+D:\Work\Code\Explore\RabbitMQProduct.ConsoleApplication\published\RabbitMQ.Client.dll
+D:\Work\Code\Explore\RabbitMQProduct.ConsoleApplication\published\System.Threading.Channels.dll

@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Work\\Code\\Explore\\RabbitMQProduct.ConsoleApplication\\RabbitMQProduct.ConsoleApplication.csproj": {}
+  },
+  "projects": {
+    "D:\\Work\\Code\\Explore\\RabbitMQProduct.ConsoleApplication\\RabbitMQProduct.ConsoleApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work\\Code\\Explore\\RabbitMQProduct.ConsoleApplication\\RabbitMQProduct.ConsoleApplication.csproj",
+        "projectName": "RabbitMQProduct.ConsoleApplication",
+        "projectPath": "D:\\Work\\Code\\Explore\\RabbitMQProduct.ConsoleApplication\\RabbitMQProduct.ConsoleApplication.csproj",
+        "packagesPath": "C:\\Users\\indra\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\Code\\Explore\\RabbitMQProduct.ConsoleApplication\\obj\\publish\\linux-x64\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\indra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://172.18.132.73:8383/repository/OBRAS/index.json": {},
+          "http://172.18.132.73:8383/repository/orp/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.24, 6.0.24]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
